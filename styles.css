@@ -1,0 +1,16 @@
+
+   .dom{
+    margin: 300px auto;
+    background:  pink;
+    width: 1000px;
+    height: 170px;
+    padding: 70px 6px;
+    border-radius: 10px;
+   }
+   .txt{
+      color: rgb(250, 182, 94); 
+      font-size: 3rem;
+      text-align: center;
+   }
+    
+   
